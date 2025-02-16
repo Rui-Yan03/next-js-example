@@ -1,0 +1,1 @@
+Yestday i try to sign copilot but fail, today i connect a wifi(yestday a iphone hotpot) and success.
