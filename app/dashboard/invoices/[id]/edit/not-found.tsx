@@ -16,3 +16,7 @@ export default function NotFound() {
     </main>
   );
 }
+
+function findInvoiceById(id: string) {
+  return fetch(`/api/invoices/${id}`).then((res) => res.json());
+}
